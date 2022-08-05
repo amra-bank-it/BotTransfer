@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BotTransfer": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
